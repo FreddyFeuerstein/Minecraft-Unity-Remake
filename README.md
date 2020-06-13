@@ -1,2 +1,2 @@
-# Minecraft Unity Remake
+# Sparticus
 A multiplayer Minecraft Client made in Unity

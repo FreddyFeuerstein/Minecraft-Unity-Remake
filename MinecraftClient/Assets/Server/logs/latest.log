@@ -1,0 +1,32 @@
+[17:57:22] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[17:57:22] [Server thread/INFO]: Loading properties
+[17:57:22] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:273) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:283) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:344) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at ko$2.run(SourceFile:81) [server.jar:?]
+[17:57:22] [Server thread/INFO]: Default game type: SURVIVAL
+[17:57:22] [Server thread/INFO]: Generating keypair
+[17:57:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:57:22] [Server thread/INFO]: Using default channel type
+[17:57:23] [Server thread/INFO]: Preparing level "world"
+[17:57:23] [Server thread/INFO]: Preparing start region for level 0
+[17:57:24] [Server thread/INFO]: Done (1.016s)! For help, type "help" or "?"
+[20:59:57] [Server thread/INFO]: Stopping the server
+[20:59:57] [Server thread/INFO]: Stopping server
+[20:59:57] [Server thread/INFO]: Saving players
+[20:59:57] [Server thread/INFO]: Saving worlds
+[20:59:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:59:57] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[20:59:57] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[20:59:57] [Server Shutdown Thread/INFO]: Stopping server
+[20:59:57] [Server Shutdown Thread/INFO]: Saving players
